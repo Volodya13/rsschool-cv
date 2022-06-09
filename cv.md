@@ -9,4 +9,5 @@ ___
 * __Discord:__ Volodya13
 ___
 ### About myself:
-Hi there! I'm 37 years old and I work at screen printing. And now I study in __RS-School__. Thank you!
+Hi there! I'm 37 years old and I work at screen printing. And now I study in __RS-School__. Thank you! 
+See you!
