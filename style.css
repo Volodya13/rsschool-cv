@@ -1,1 +1,68 @@
-@media (max-width: 900px)
+.body {
+    max-width: 1024px;
+    min-width: 600px;
+    margin: 35px;
+    background-color: #25252b;
+   
+
+}
+.h1 {
+    font-size: 5ch;
+    color: #b8ff1d;
+    padding-left: 55px;
+}
+.h2 {
+    font-size: 5ch;
+    color: #b8ff1d;
+    padding-left: 55px;
+}
+.li_1 {
+    font-size: 2ch;
+    color: #ffffff;
+}
+.paragraph {
+font-size: 2ch;
+color: #ffffff;
+padding-left: 55px;
+}
+.header {
+    height: 320px;
+    width: 1024px;
+    
+}
+.header_left {
+    height: 320px;
+    width: 400px;
+}
+.column_right {
+    height: 1050px;
+    width: 415px;
+    padding: 20px;
+    background-color: #0d0d0f;  
+}
+.div_footer {
+    height: 71px;
+    width:406px;
+    background-color: #b8ff1d;
+}
+.avatar {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    border: 13px solid #b8ff1d;
+    margin-bottom: 20px;
+}
+.svg {
+    height: 15px;
+    width: 15px;
+    margin-right: 10px;
+}
+.svg1 {
+    height: 10px;
+    width: 300px;
+    padding-right: 0px;
+}
+.linkRS {
+    height: 50px;
+    width: 75px;
+}
