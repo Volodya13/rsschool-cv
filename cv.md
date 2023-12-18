@@ -6,6 +6,7 @@
 * __Phone Number:__ +7 (747) 403-92-65
 * __Discord:__ Volodya13 #7432
 * __GitHub:__ @Volodya13
+  
 ---
 ## ABOUT ME
 Hello everyone! My name's Vladimir and I'm 38. I like music, pets and kind pleasant people. I've been   working as a screen-printer for the last 8 years and now I'm working on full-stack(junior) position in at the local web-applications developing studio. Also I am continue my self-study to improve my skills. Because I'm going to get advanced level for this. I live in Kazakhstan, Almaty city. I'm taking several courses such as "RSSchool Frontend Dev." and "Udemy: WEB-Dev and Java Script + React" to become a strong and confident front-end developer. I'd like to work to create something unusual(for example I have the serveral ideas to create web-apps for pets and right now we're working on conception for this with my muse). And I really sure that I'll have been reached for my aim definitely.
