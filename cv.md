@@ -8,7 +8,7 @@
 * __GitHub:__ @Volodya13
 ---
 ## ABOUT ME
-Hello everyone! My name's Vladimir and I'm 38. I've been   working as a screen-printer for the last 8 years and now I'm working on junior position in at the local web studio. Also I am continue my self-study to improve my skills. Because I'm going to get advanced level for this. I live in Kazakhstan, Almaty city. I'm taking several courses such as "RSSchool Frontend Dev." and "Udemy: WEB-Dev and Java Script + React" to become a strong and confident front-end developer. I'd like to work to create something unusual. And I really sure that I'll have been reached for my aim definitely.
+Hello everyone! My name's Vladimir and I'm 38. I like music, pets and kind pleasant people. I've been   working as a screen-printer for the last 8 years and now I'm working on full-stack(junior) position in at the local web-applications developing studio. Also I am continue my self-study to improve my skills. Because I'm going to get advanced level for this. I live in Kazakhstan, Almaty city. I'm taking several courses such as "RSSchool Frontend Dev." and "Udemy: WEB-Dev and Java Script + React" to become a strong and confident front-end developer. I'd like to work to create something unusual(for example I have the serveral ideas to create web-apps for pets and right now we're working on conception for this with my muse). And I really sure that I'll have been reached for my aim definitely.
 ---
 ## MY EDUCATION
 * Accounting a finance (unfinished college)
@@ -27,19 +27,48 @@ Hello everyone! My name's Vladimir and I'm 38. I've been   working as a screen-p
 * HTML
 * CSS(Stylus, Sass, Scss)
 * Bootstrap,Tailwind(are basically)
-* Java Script (JQuery, React(are basically))
+* JavaScript
+* CMS: "Bitrix: Site Management"
+* GULP
+* Web-pack
+* JQuery, React(are basically)
 * PHP (1S: Site Management, Bitrix Framework(basically))
 * Git / GitHUB
 * Figma
 * CorelDRAW
 * Adobe PhotoShop
 ---
-##CODE EXAMPLE
+## CODE EXAMPLE
 ```JavaScript
-function getDecimal(n) {
-    const result = n - Math.ceil(n);
-    return Math.abs(result);
-}
+//used class to construct the componentns by menu-card template
+class MenuCard {
+        constructor(src, name, description, price, parentName, className) {
+            this.name = name;
+            this.src = src;
+            this.description = description;
+            this.price = price;
+            this.parent = document.querySelector(parentName);
+            this.className = className;
+        }
+
+        render() {
+            const menuCard = document.createElement('div');
+
+            menuCard.classList.add('menu_card');
+            menuCard.innerHTML = `
+                <div class="menu_card-img">
+                    <img src=${this.src} alt="menu-card-pic">
+                </div>
+                <div class="menu_card-descr">
+                    <h3 class="menu_card-title">${this.name}</h3>
+                    <div class="menu_card-text">${this.description}</div>
+                    <div class="menu_card-price">$${this.price}</div>
+                </div>`;
+
+            this.parent.append(menuCard);
+            return menuCard;
+        }
+    }
 ```
 ---
 ## LANGUAGES
