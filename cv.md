@@ -27,14 +27,14 @@ Hello everyone! My name's Vladimir and I'm 38. I like music, pets and kind pleas
 ###### Hard Skills:
 * HTML
 * CSS(Stylus, Sass, Scss)
-* Bootstrap,Tailwind(are basically)
+* Bootstrap,Tailwind(are basic)
 * JavaScript
 * CMS: "Bitrix: Site Management"
 * GULP
 * Web-pack
-* JQuery, React(are basically)
-* PHP (1S: Site Management, Bitrix Framework(basically))
-* Git / GitHUB
+* JQuery, React, TypeScript,(are basic)
+* PHP (1S: Site Management, Bitrix Framework(basic too))
+* Git / GitHUB / GitLab
 * Figma
 * CorelDRAW
 * Adobe PhotoShop
